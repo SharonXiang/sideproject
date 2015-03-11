@@ -1,2 +1,2 @@
 # sideproject
-pages I create for fun
+things I create for fun
