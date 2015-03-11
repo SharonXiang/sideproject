@@ -1,4 +1,4 @@
-/*Database for storing a list of alarms*/
+/* Database for storing a list of alarms */
 
 package com.example.wakemeup;
 
