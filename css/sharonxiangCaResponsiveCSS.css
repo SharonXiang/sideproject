@@ -1,0 +1,274 @@
+ @media (min-width: 1200px) {
+  .mmargin{
+    margin-left: 55px;
+  }
+
+
+  }
+
+ @media (min-width: 992px) and (max-width: 1199px) {
+    .form-control{
+        margin-bottom: 13px;
+    }
+
+    .frame{/*carousel_style*/
+    left:89px!important;
+    }
+
+    .vAlign{
+    margin-top: 25px;
+    }
+
+    .paragraphList{
+    text-align: center;
+    }
+
+    .leftAlign{
+    text-align: center;
+  }
+
+   }
+
+
+ @media (min-width: 768px) and (max-width: 991px) {
+    .position{ /*usage: profile picture*/
+        text-align: right;
+        padding-top:35px;
+    }
+
+    .form-control{
+        padding-bottom: 15px;
+        margin-bottom: 18px;
+    }
+
+    .intro-paragraph{
+        padding-bottom: 25px;
+        text-align: left;
+    }
+
+    .maxwidth{
+        margin: 0;
+    }
+
+    .fadein{
+        opacity: 1;
+    }
+
+    .fadein:hover{
+        position:relative;
+        top:3px;
+    }
+
+    .frame{/*carousel_style*/
+    left:84px!important;
+    }
+
+    .slideshow{/*carousel_style*/
+    float:none!important;
+    }
+
+    .vAlign{
+    margin-top: 0px;
+    }
+
+    .paragraphList{
+    text-align: center;
+    }
+
+    .leftAlign{
+    text-align: center;
+    }
+
+    .window_991{
+    margin-top: 65px;
+    }
+
+ }
+
+
+ @media (min-width: 401px) and (max-width: 767px) {
+    .navbar-nav > li > a{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+
+    .logo {
+    margin-left: 15px;
+    }
+
+    .navbar-fixed-top /*cancel sticky header effect*/
+    {
+    position: relative;
+    top: auto;
+    }
+
+    .position{
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .form-control{
+        width: 200%;
+    }
+
+    .emailbox{
+        margin-left: 20%;
+    }
+
+    .footerwrapper{
+        margin-left: 10%;
+    }
+
+    .intro-paragraph{
+        padding-top: 15px;
+        padding-bottom: 25px;
+        text-align: center;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .maxwidth{
+        margin: 0 auto;
+    }
+
+    .paragraph-offer {
+      font-weight: 100;
+    }
+
+    .fadein{
+      opacity: 1;
+    }
+
+    .fadein:hover{
+        position:relative;
+        top:3px;
+    }
+
+    .banner {
+      margin-top: -60px;
+    }
+
+    .frame{/*carousel_style*/
+    left:84px!important;
+    }
+
+    .slideshow{/*carousel_style*/
+    float:left!important;
+     width:390px!important;
+
+    }
+
+    .paragraphList{
+    text-align: center;
+  }
+
+  .leftAlign{
+    text-align: center;
+  }
+
+
+
+}
+
+@media screen and (max-width: 400px) {
+     .position{
+        text-align: center;
+    }
+
+      .form-control{
+        width: 200%;
+    }
+
+     .navbar-fixed-top /*cancel sticky header effect*/
+    {
+        position: relative;
+        top: auto;
+    }
+
+    #bathtub, #whole, #bathtubman, #bubble,
+    #handle,#propeller{
+      width: 0px;
+      height: 0px;
+      margin-top: 0px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      background-size: contain;
+    }
+
+    #bannerpic, #bannerpic-in-page{
+      background-image: url(../img/banner/mobilebg.png);
+      background: url(../img/banner/mobilebg.png) no-repeat center -1px;
+    }
+
+    .paragraph-offer {
+      font-size: 10px;
+      font-weight: 100;
+    }
+
+    .btn-position{
+        margin-left: 100px;
+    }
+
+    .intro-paragraph{
+        padding-bottom: 25px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .maxwidth{
+        margin: 0 auto;
+    }
+
+    .fadein{
+      opacity: 1;
+    }
+
+    .fadein:hover{
+        position:relative;
+        top:3px;
+    }
+
+    .banner {
+      
+      height: 250px;
+
+    }
+
+    .frame{/*carousel_style*/
+    left:50px!important;
+    top:25px!important;
+    }
+
+    .slideshow{/*carousel_style*/
+    float:none!important;
+    width:250px!important;
+    margin-top: 40px!important;
+    }
+
+    .slideshow .slider{
+        margin-left: 50px!important;
+        margin-right: 0px!important;
+
+    }
+
+    .subtitle, .title{
+    text-align: center!important;
+    }
+
+.flex-direction-nav a  { 
+        padding-top: 20px!important; 
+        margin: -60px 0 0!important; 
+        top: 0%!important;  
+    }
+
+    .flex-direction-nav .flex-prev { left: 0px!important; }
+    .flex-direction-nav .flex-next { right: 0px!important;  }
+    .flexslider:hover .flex-prev {  left: 0px!important; }
+    .flexslider:hover .flex-next {  right: 0px!important; }
+
+    }
+
+
+
+
