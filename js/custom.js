@@ -1,4 +1,4 @@
-  /*Sticky Header Animation*/
+  /* Resizing Sticky Header When scrolling*/
       $(function(){
         var shrinkHeader = 100;
           $(window).scroll(function() {
@@ -14,3 +14,4 @@
         return window.pageYOffset || document.documentElement.scrollTop;
       }
       });
+
