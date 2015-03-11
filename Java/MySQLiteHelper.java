@@ -1,3 +1,4 @@
+/* Wake me up - Android alarm app */
 /* Database for storing a list of alarms */
 
 package com.example.wakemeup;
