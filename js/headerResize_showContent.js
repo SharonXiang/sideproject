@@ -1,4 +1,4 @@
-/*-- Header Resize + Show Content while scrolling*/
+/*-- Header Resize + Show Content while scrolling --*/
     $(function(){
         var shrinkHeader = 100;
 
