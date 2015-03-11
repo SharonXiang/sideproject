@@ -1,5 +1,5 @@
-/*Wake me up - Android alarm app*/
-/*part of coding package*/
+/* Wake me up - Android alarm app */
+/* This is a part of coding package */
 
 package com.example.wakemeup;
 
