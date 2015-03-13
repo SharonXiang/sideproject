@@ -32,18 +32,6 @@ body, html {
   min-height: 30%;
 }
 
-.cd-container {
-  /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
-  width: 90%;
-  max-width: 768px;
-  margin: 0 auto;
-}
-.cd-container::after {
-  /* clearfix */
-  content: '';
-  display: table;
-  clear: both;
-}
 
 .cd-main-content {
   /* you need to assign a min-height to the main content so that the children can inherit it*/
